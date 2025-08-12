@@ -1,4 +1,4 @@
-# Job Candidate Suitability Prediction
+# Job Candidate Suitability Prediction Model
 
 ## 📌 Overview
 This project predicts whether a job candidate is **suitable (1)** or **not suitable (0)** for a given position based on applicant data.  
@@ -81,8 +81,8 @@ It uses statistical analysis, preprocessing pipelines, and multiple classificati
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/job-candidate-suitability.git
-cd job-candidate-suitability
+git clone https://github.com/Savin97/Job-Candidate-Suitability-Prediction-Model.git
+cd Job-Candidate-Suitability-Prediction-Model
 ```
 
 2. (Optional) Create and activate a virtual environment:
