@@ -98,5 +98,5 @@ pip install -r requirements.txt
 
 4. Run the notebook:
 ```bash
-jupyter notebook notebooks/Job_Candidate_Suitability_Prediction_Model.ipynb
+jupyter notebook notebooks/Job Candidate Suitability Prediction Model.ipynb
 ```
